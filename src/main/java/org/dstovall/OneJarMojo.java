@@ -179,6 +179,7 @@ public class OneJarMojo extends AbstractMojo {
 	 */
 	private Map<String,String> manifestEntries;
     
+    @Override
     public void execute() throws MojoExecutionException {
 
         // Show some info about the plugin.
