@@ -1,0 +1,2 @@
+onejar-maven-plugin
+===================
